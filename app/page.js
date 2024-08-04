@@ -161,7 +161,7 @@ export default function Home() {
         />
       )}
 
-      <Box border='1px solid #333'>
+      <Box border='12px solid white'>
         <Box width="800px" height="100px" bgcolor="#ADD8E6" display="flex" alignItems="center" justifyContent="center" position="relative">
           <Typography variant="h2" color="#333">
             Inventory Items
