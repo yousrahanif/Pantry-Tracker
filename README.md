@@ -37,5 +37,5 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/inventory-management.git
+git clone https://github.com/yourusername/inventory-management.git](https://github.com/yousrahanif/Pantry-Tracker.git
 cd inventory-management
